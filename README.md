@@ -1,2 +1,1 @@
 # komal
-python is good
